@@ -4,7 +4,7 @@
   <!-- URL copiada desde el asset del release -->
   <url>https://github.com/manueligt/update/releases/download/1.4.1.0/Chatita_Setup.exe</url>
   <!-- Enlace a la página del release para el changelog -->
-  <changelog>https://raw.githubusercontent.com/manueligt/chatita/main/CHANGELOG.md</changelog>
+  <changelog>https://raw.githubusercontent.com/manueligt/chatita/main/CHANGELOG1.md</changelog>
   <mandatory>true</mandatory>
 
 </item>
